@@ -1,0 +1,44 @@
+body {
+    margin:0;
+    background-color: #eee;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+#form1 {
+    display: inline-block;
+    text-align: center;
+    width: 25%;
+    height: 50vh;
+    margin-top: 5%;
+    color:black;
+    border-style: solid;
+}
+
+#form1 h2 {
+    text-align: left;
+    margin-left: 105px;
+    margin-bottom: 5px;
+}
+
+#form1 #Username {
+    width: 50%;
+    height:5%;
+}
+
+#form1 #Email {
+    width: 50%;
+    height:5%;
+}
+
+#form1 #Password {
+    width: 50%;
+    height:5%;
+}
+
+#form1 #btnRegister {
+    font-size: 24px;
+    width: 52%;
+    height:15%;
+    margin:50px;
+}
